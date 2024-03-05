@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/garci/Documents/GitHub/SOTY/Soty/Content/Menus/MenuMap.umap",
+				"C:/Users/garci/Documents/GitHub/SOTY/Soty/Content/Menus/HUD_Menus.uasset",
+				"C:/Users/garci/Documents/GitHub/SOTY/Soty/Content/Menus/Background/image_2024-03-05_105431436-removebg-preview.uasset",
 				"C:/Users/loh10/Documents/GitHub/SOTY/Soty/Content/FirstPerson/Blueprints/BP_FirstPersonProjectile.uasset",
 				"C:/Users/loh10/Documents/GitHub/SOTY/Soty/Content/FirstPerson/Blueprints/BP_Pickup_Rifle.uasset",
 				"C:/Users/loh10/Documents/GitHub/SOTY/Soty/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
